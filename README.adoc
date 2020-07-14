@@ -8,7 +8,7 @@ I'm a professional conference speaker on distributed systems, Java, and JavaScri
 You can find my past talks at https://speaking.gamov.io.
 
 What I do?
-A few things? 
+A few things:
 
 * occasionally http://gamov.io/posts.html[👨🏼‍💻 blogging]
 * make some vids on https://gamov.dev/youtube[🎥 Youtube]
