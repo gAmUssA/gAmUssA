@@ -1,2 +1,13 @@
-[[hi-there-]]
-== Hi there 👋
+== 👋 Hello!
+
+Thank you for stopping by.
+My name is Viktor (I also go by Vik) Gamov.
+
+I'm a Developer Advocate at http://confluent.io[Confluent], the company that makes a streaming platform based on Apache Kafka®.
+I'm a professional conference speaker on distributed systems, Java, and JavaScript topics, and is regular on events including JavaOne, Devoxx, OSCON, QCon, and others. 
+You can find my past talks at https://speaking.gamov.io.
+
+I'm occasionally blogging http://gamov.io/posts.html[here], make some vids on https://gamov.dev/youtube[Youtube] and produce a podcast http://pod.link/crid[Crazy Russian in Devoops].
+I co-authored O'Reilly's book https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/[«Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile].
+
+You can follow me on Twitter https://twitter.com/gamussa[@gamussa] and Instagram https://instagram.com/gamussa[@gamussa], where I post about gym life, food, open source, and, of course, Kafka and Confluent!
