@@ -10,4 +10,4 @@ You can find my past talks at https://speaking.gamov.io.
 I'm occasionally blogging http://gamov.io/posts.html[here], make some vids on https://gamov.dev/youtube[Youtube] and produce a podcast http://pod.link/crid[Crazy Russian in Devoops].
 I co-authored O'Reilly's book https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/[«Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile].
 
-You can follow me on Twitter https://twitter.com/gamussa[@gamussa] and Instagram https://instagram.com/gamussa[@gamussa], where I post about gym life, food, open source, and, of course, Kafka and Confluent!
+You can follow me on https://twitter.com/gamussa[Twitter] and https://instagram.com/gamussa[Instagram ], where I post about gym life, food, open source, and, of course, Kafka and Confluent!
