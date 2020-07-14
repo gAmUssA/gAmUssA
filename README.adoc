@@ -10,10 +10,10 @@ You can find my past talks at https://speaking.gamov.io.
 What I do?
 A few things:
 
-* occasionally http://gamov.io/posts.html[👨🏼‍💻 blogging]
-* make some vids on https://gamov.dev/youtube[🎥 Youtube]
-* produce a podcast http://pod.link/crid[🎧 Crazy Russian in Devoops].
-* obviously, push some code to https://github.com/gamussa[🐱 Github]
+* I occasionally http://gamov.io/posts.html[👨🏼‍💻 blog]
+* I make some vids and livestream on https://gamov.dev/youtube[🎥 Youtube] and https://twitch.com/gamussa[👾 Twitch].
+* I produce a podcast http://pod.link/crid[🎧 Crazy Russian in Devoops].
+* And, obviously, push some code to https://github.com/gamussa[🐱 Github]
 
 I co-authored O'Reilly's book https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/[📗 «Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile].
 
