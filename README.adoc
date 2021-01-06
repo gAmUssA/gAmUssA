@@ -18,3 +18,21 @@ A few things:
 I co-authored O'Reilly's book https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/[📗 «Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile].
 
 You can follow me on https://twitter.com/gamussa[🐦 Twitter] and https://instagram.com/gamussa[🖼 Instagram], where I post about gym life, food, open source, and, of course, Kafka and Confluent!
+
+++++
+<p align="center">
+  <a href="https://github.com/gamussa?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamussa&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/gamussa?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=gamussa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+++++
