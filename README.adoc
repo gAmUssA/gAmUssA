@@ -3,7 +3,8 @@
 Thank you for stopping by.
 My name is Viktor (I also go by Vik) Gamov.
 
-I'm a Developer Advocate at http://confluent.io[Confluent], the company that makes a streaming platform based on Apache Kafka®.
+I'm a Principal Developer Advocate at https://konghq.com[Kong], a cloud connectivity company.
+Prior Kong I was a Developer Advocate at http://confluent.io[Confluent], the company that makes a streaming platform based on Apache Kafka®.
 I'm a professional conference speaker on distributed systems, Java, and JavaScript topics, and is regular on events including JavaOne, Devoxx, OSCON, QCon, and others. 
 You can find my past talks at https://speaking.gamov.io.
 
