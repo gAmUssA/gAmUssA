@@ -1,23 +1,22 @@
-## 👋 Hello!
+== 👋 Hello!
 
-Thank you for stopping by. 
-My name is Viktor (I often go by Vik) Gamov.
+Thank you for stopping by. My name is Viktor (I also go by Vik) Gamov.
 
-I’m The Head of Developer Advocacy at [StarTree](http://dev.startree.ai), a pioneering company in real-time analytics with Apache Pinot®. 
-As a Java Champion and an esteemed speaker, Viktor is known for his insightful presentations at top industry events like JavaOne, Devoxx, Kafka Summit, and QCon. His expertise spans distributed systems, real-time data streaming, JVM, and DevOps. 
-You can find my past talks at [https://speaking.gamov.io](https://speaking.gamov.io/).
+I’m The Head of Developer Advocacy at http://dev.startree.ai[StarTree], a pioneering company in real-time analytics with Apache Pinot®. 
+As a Java Champion and an esteemed speaker, sometimes I'm known for insightful presentations at top industry events like JavaOne, Devoxx, Kafka Summit, and QCon. His expertise spans distributed systems, real-time data streaming, JVM, and DevOps. 
+You can find my past talks at https://speaking.gamov.io/[https://speaking.gamov.io].
 
-What do I do? A few things:
+What do I do? 
+A few things:
 
-  * I occasionally [👨🏼‍💻 blog](http://gamov.io/posts.html)
+* I occasionally http://gamov.io/posts.html[👨🏼‍💻 blog]
+* I make some videos and livestream on https://gamov.dev/youtube[🎥 Youtube] and https://twitch.com/gamussa[👾 Twitch].
+* And push some code to https://github.com/gamussa[🐱 Github]
 
-  * I make some vids and livestream on [🎥 Youtube](https://gamov.dev/youtube) and [👾 Twitch](https://twitch.com/gamussa).
+I co-authored Manning’s book https://kafkainaction.org[📘 «Kafka in Action»] and O’Reilly’s book https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/[📗 «Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile].
 
-  * And push some code to [🐱 Github](https://github.com/gamussa)
+You can follow me on https://x.com/gamussa[🐦 Twitter/X] and https://instagram.com/gamussa[🖼 Instagram], where I post about gym and food adventures and insights into open-source and developer advocacy.
 
-I co-authored Manning's book [📘 «Kafka in Action»](https://kafkainaction.org) and O’Reilly’s book [📗 «Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile](https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/).
-
-You can follow me on [🐦 Twitter/X](https://x.com/gamussa) and [🖼 Instagram](https://instagram.com/gamussa), where I post about gym and food adventures and insights into open-source and developer advocacy.
 
 ++++
 <p align="center">
