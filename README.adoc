@@ -1,26 +1,23 @@
-== 👋 Hello!
+## 👋 Hello!
 
-Thank you for stopping by.
-My name is Viktor (I also go by Vik) Gamov.
+Thank you for stopping by. 
+My name is Viktor (I often go by Vik) Gamov.
 
-I'm a Principal Developer Advocate at https://konghq.com[Kong], a cloud connectivity company.
+I’m The Head of Developer Advocacy at [StarTree](http://dev.startree.ai), a pioneering company in real-time analytics with Apache Pinot®. 
+As a Java Champion and an esteemed speaker, Viktor is known for his insightful presentations at top industry events like JavaOne, Devoxx, Kafka Summit, and QCon. His expertise spans distributed systems, real-time data streaming, JVM, and DevOps. 
+You can find my past talks at [https://speaking.gamov.io](https://speaking.gamov.io/).
 
+What do I do? A few things:
 
-Prior Kong I was a Developer Advocate at http://confluent.io[Confluent], the company that makes a streaming platform based on Apache Kafka®.
-I'm a professional conference speaker on distributed systems, Java, and JavaScript topics, and is regular on events including JavaOne, Devoxx, OSCON, QCon, and others. 
-You can find my past talks at https://speaking.gamov.io.
+  * I occasionally [👨🏼‍💻 blog](http://gamov.io/posts.html)
 
-What I do?
-A few things:
+  * I make some vids and livestream on [🎥 Youtube](https://gamov.dev/youtube) and [👾 Twitch](https://twitch.com/gamussa).
 
-* I occasionally http://gamov.io/posts.html[👨🏼‍💻 blog]
-* I make some vids and livestream on https://gamov.dev/youtube[🎥 Youtube] and https://twitch.com/gamussa[👾 Twitch].
-* I produce a podcast http://pod.link/crid[🎧 Crazy Russian in Devoops].
-* And, obviously, push some code to https://github.com/gamussa[🐱 Github]
+  * And push some code to [🐱 Github](https://github.com/gamussa)
 
-I co-authored O'Reilly's book https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/[📗 «Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile].
+I co-authored Manning's book [📘 «Kafka in Action»](https://kafkainaction.org) and O’Reilly’s book [📗 «Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile](https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/).
 
-You can follow me on https://twitter.com/gamussa[🐦 Twitter] and https://instagram.com/gamussa[🖼 Instagram], where I post about gym life, food, open source, and, of course, Kafka and Confluent!
+You can follow me on [🐦 Twitter/X](https://x.com/gamussa) and [🖼 Instagram](https://instagram.com/gamussa), where I post about gym and food adventures and insights into open-source and developer advocacy.
 
 ++++
 <p align="center">
