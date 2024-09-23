@@ -2,7 +2,7 @@
 
 Thank you for stopping by. My name is Viktor (I also go by Vik) Gamov.
 
-I’m The Head of Developer Advocacy at http://dev.startree.ai[StarTree], a pioneering company in real-time analytics with Apache Pinot®. 
+I’m a Principal Developer Advocate at Confluent, founded by the original creators of Apache Kafka®. 
 As a Java Champion and an esteemed speaker, sometimes I'm known for insightful presentations at top industry events like JavaOne, Devoxx, Kafka Summit, and QCon. His expertise spans distributed systems, real-time data streaming, JVM, and DevOps. 
 You can find my past talks at https://speaking.gamov.io/[https://speaking.gamov.io].
 
@@ -10,7 +10,7 @@ What do I do?
 A few things:
 
 * I occasionally http://gamov.io/posts.html[👨🏼‍💻 blog]
-* I make some videos and livestream on https://gamov.dev/youtube[🎥 Youtube] and https://twitch.com/gamussa[👾 Twitch].
+* I make some videos and livestream on https://gamov.dev/youtube[🎥 Youtube].
 * And push some code to https://github.com/gamussa[🐱 Github]
 
 I co-authored Manning’s book https://kafkainaction.org[📘 «Kafka in Action»] and O’Reilly’s book https://www.oreilly.com/library/view/enterprise-web-development/9781449357023/[📗 «Enterprise Web Development. Building HTML5 Applications: From Desktop to Mobile].
